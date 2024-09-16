@@ -10,6 +10,7 @@ namespace PMP_Gyak
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
